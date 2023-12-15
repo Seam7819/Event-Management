@@ -1,0 +1,81 @@
+[
+    {
+      "id": 1,
+      "event_type": "Wedding",
+      "img": "https://cdn0.weddingwire.in/vendor/9855/3_2/960/jpeg/whatsapp-image-2022-07-21-at-5-50-54-pm-1_15_399855-165841430566568.jpeg",
+      "title": "Enchanted Garden Affair",
+      "description": "Join us for a fairy-tale wedding ceremony and reception amidst the blooming flowers and twinkling lights.",
+      "details": {
+        "date": "2023-09-10",
+        "venue": "Whispering Woods Estate",
+        "location": "Mystical Meadow",
+        "guests": 200
+      }
+    },
+    {
+      "id": 2,
+      "event_type": "Birthday Party",
+      "img": "https://cdn.togetherv.com/birthday-surprise-main_1681375822.webp",
+      "title": "Dazzling 40th Birthday Bash",
+      "description": "Celebrate [Name]'s 40th birthday with an evening of glamour, laughter, and unforgettable moments.",
+      "details": {
+        "date": "2023-07-25",
+        "venue": "Starry Night Club",
+        "location": "Downtown Sparkle City",
+        "guests": 60
+      }
+    },
+    {
+      "id": 3,
+      "event_type": "Anniversary",
+      "img": "https://www.bambooevents.co.in/images/anniversary4.webp",
+      "title": "Diamond Jubilee Celebration",
+      "description": "Mark the 75th anniversary of [Couple's Names] with an elegant evening filled with love and nostalgia.",
+      "details": {
+        "date": "2023-11-15",
+        "venue": "Grand Heritage Hall",
+        "location": "Cherished Memories Plaza",
+        "guests": 150
+      }
+    },
+    {
+      "id": 4,
+      "event_type": "Engagement Party",
+      "img": "https://www.bambooevents.co.in/images/image1.webp",
+      "title": "A Love Story Begins",
+      "description": "Celebrate the engagement of [Couple's Names] with a chic and sophisticated soirée filled with joy and romance.",
+      "details": {
+        "date": "2023-10-05",
+        "venue": "Crystal Events Center",
+        "location": "Diamond District",
+        "guests": 80
+      }
+    },
+    {
+      "id": 5,
+      "event_type": "Retirement Party",
+      "img": "https://images.squarespace-cdn.com/content/v1/60da576b8b440e12699c9263/1686989763425-LUP0XRBCLW87AA9IK5DS/Nita%27s%2B50th%2B-030+%281%29.jpg",
+      "title": "Retirement Bliss Celebration",
+      "description": "Bid farewell to [Retiree's Name] as they embark on a new chapter. Join us for a relaxed and joyous retirement party.",
+      "details": {
+        "date": "2023-12-01",
+        "venue": "Tranquil Retreat Center",
+        "location": "Serenity Springs",
+        "guests": 50
+      }
+    },
+    {
+      "id": 6,
+      "event_type": "Baby Shower",
+      "img": "https://cdn.togetherv.com/blue-and-pink-baby-shower-decor-main_1692433559.webp",
+      "title": "Whimsical Baby Wonderland",
+      "description": "Celebrate the imminent arrival of [Parent's Names]'s little one with a delightful baby shower full of joy and laughter.",
+      "details": {
+        "date": "2023-08-20",
+        "venue": "Baby Haven Hall",
+        "location": "Nursery Lane",
+        "guests": 30
+      }
+    }
+  ]
+  

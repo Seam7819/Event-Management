@@ -1,0 +1,69 @@
+[
+    {
+      "id": 1,
+      "event_name": "Tech Summit 2023",
+      "organizer": "Tech Events Co.",
+      "date": "2023-09-15",
+      "venue": "Innovation Hub",
+      "location": "Tech City",
+      "price": "$150 per ticket",
+      "order_info": "Contact us to reserve your spot",
+      "img": "https://cdn0.weddingwire.in/vendor/9855/3_2/960/jpeg/whatsapp-image-2022-07-21-at-5-50-54-pm-1_15_399855-165841430566568.jpeg"
+    },
+    {
+      "id": 2,
+      "event_name": "Product Launch Gala",
+      "organizer": "Product Innovations Inc.",
+      "date": "2023-10-08",
+      "venue": "Grand Expo Hall",
+      "location": "Business District",
+      "price": "$100 per ticket",
+      "order_info": "Tickets available online",
+      "img": "https://cdn.togetherv.com/birthday-surprise-main_1681375822.webp"
+    },
+    {
+      "id": 3,
+      "event_name": "Team Building Retreat",
+      "organizer": "Adventure Connect",
+      "date": "2023-11-20",
+      "venue": "Adventure Haven Resort",
+      "location": "Nature Retreat",
+      "price": "$250 per person",
+      "order_info": "Book your retreat package now",
+      "img": "https://www.bambooevents.co.in/images/anniversary4.webp"
+    },
+    {
+      "id": 4,
+      "event_name": "Leadership Seminar",
+      "organizer": "Professional Development Institute",
+      "date": "2023-12-05",
+      "venue": "Learning Hub Auditorium",
+      "location": "Education Square",
+      "price": "Free Admission",
+      "order_info": "No registration required",
+      "img": "https://www.bambooevents.co.in/images/image1.webp"
+    },
+    {
+      "id": 5,
+      "event_name": "Trade Expo 2024",
+      "organizer": "Commerce Events Network",
+      "date": "2024-01-15",
+      "venue": "Exhibition Center",
+      "location": "Commerce Plaza",
+      "price": "$75 per ticket",
+      "order_info": "Early bird discounts available",
+      "img": "https://images.squarespace-cdn.com/content/v1/60da576b8b440e12699c9263/1686989763425-LUP0XRBCLW87AA9IK5DS/Nita%27s%2B50th%2B-030+%281%29.jpg"
+    },
+    {
+      "id": 6,
+      "event_name": "Charity Ball Night",
+      "organizer": "Community Foundation",
+      "date": "2024-02-28",
+      "venue": "Elegance Ballroom",
+      "location": "Community Square",
+      "price": "$200 per ticket",
+      "order_info": "Proceeds support local education",
+      "img": "https://cdn.togetherv.com/blue-and-pink-baby-shower-decor-main_1692433559.webp"
+    }
+  ]
+  
